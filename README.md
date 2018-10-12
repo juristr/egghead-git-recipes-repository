@@ -13,7 +13,3 @@ To install the dependencies use `npm install`.
 ### Step 3: Execute the tests
 
 To execute the tests use `npm test`.
-
-## Credits
-
-Credits go to [@juristr](https://twitter.com/juristr).
